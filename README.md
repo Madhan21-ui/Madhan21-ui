@@ -1,5 +1,7 @@
 <!-- PREMIUM GITHUB PROFILE -->
-
+<p align="center">
+  <img src=" Madhanbanner.png" alt="Madhan Nagireddy Banner" width="100%" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Madhan+Nagireddy;Java+Full+Stack+Developer;React+Developer;Microservices+Enthusiast;Building+Scalable+Applications" />
 </p>
