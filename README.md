@@ -52,8 +52,7 @@ public class MadhanNagireddy {
     String currentFocus =
         "Building scalable web applications";
 
-    String goal =
-        "Become a top Software Engineer";
+    
 }
 ```
 
