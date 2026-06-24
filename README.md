@@ -118,9 +118,7 @@ IoT Navigation System for Visually Impaired Persons
 ## 📜 Certifications
 
 * Google Generative AI Virtual Internship
-* Google AI-ML Virtual Internship
-* Google Android Developer Virtual Internship
-* Palo Alto Cybersecurity Virtual Internship
+* Infosys SpringBoard Java 
 
 ---
 
@@ -130,7 +128,7 @@ IoT Navigation System for Visually Impaired Persons
 
 ## 🤝 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+📧 Email: [madhannagireddy66@gmail.com](mailto:madhannagireddy66@gmail.com)
 
 💼 LinkedIn: https://www.linkedin.com/in/madhan-nagireddy-/
 
