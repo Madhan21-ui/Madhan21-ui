@@ -1,141 +1,127 @@
-<!-- PREMIUM GITHUB PROFILE -->
-<p align="center">
-<img src="./Madhan%20banner.png" alt="Madhan Nagireddy Banner" width="100%" /></p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Madhan+Nagireddy;Java+Full+Stack+Developer;React+Developer;Microservices+Enthusiast;Building+Scalable+Applications" />
-</p>
+# 👋 Hi, I'm Madhan Nagireddy
 
-<h1 align="center">🚀 Madhan Nagireddy</h1>
-
-<h3 align="center">
-Java Full Stack Developer • React Developer • Problem Solver
-</h3>
+### Java Full Stack Developer | React Developer | Microservices Enthusiast
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhan21-ui&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="./Madhan banner.png" width="100%" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/madhan-nagireddy-/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00C8FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;React+Developer;Microservices+Enthusiast;Building+Scalable+Applications;Open+to+Software+Engineering+Roles" />
+</p>
 
-<a href="https://madhan21-ui.github.io/MadhanNagireddy_portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhan-nagireddy-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://madhan21-ui.github.io/MadhanNagireddy_portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://github.com/Madhan21-ui">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-```java
-public class MadhanNagireddy {
-
-    String role = "Java Full Stack Developer";
-
-    String[] skills = {
-        "Java",
-        "SQL",
-        "JavaScript",
-        "React",
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "Microservices"
-    };
-
-    String currentFocus =
-        "Building scalable web applications";
-
-    
-}
-```
+* 🎓 B.Tech in Electronics & Communication Engineering (2025)
+* 💻 Passionate about Java, React.js, SQL, REST APIs and Microservices
+* 🌱 Currently building BookMyDoc Healthcare Platform
+* 🔥 Interested in Backend Development and Scalable Systems
+* 🎯 Seeking Software Engineer / Java Developer Opportunities
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### Frontend
+
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
+
+---
+
+## 🔥 Featured Projects
+
+### 🏥 BookMyDoc Microservices
+
+Healthcare Appointment Booking Platform
+
+* Spring Boot
+* REST APIs
+* Eureka Server
+* API Gateway
+* Microservices Architecture
+
+### 🛒 MADY Basket
+
+Online Vegetable Shopping Platform
+
+* React.js
+* JavaScript
+* Responsive UI
+* Shopping Cart
+
+### 🧑‍🦯 Smart Assistive Navigation System
+
+IoT Navigation System for Visually Impaired Persons
+
+* NodeMCU
+* Ultrasonic Sensor
+* ADXL345
+* Email Alert System
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,react,bootstrap,git,github,vscode" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhan21-ui&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan21-ui&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Currently Learning
+## 📜 Certifications
 
-- Spring Boot
-- Microservices Architecture
-- REST APIs
-- System Design
-- Advanced React
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Madhan21-ui&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan21-ui&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+* Google Generative AI Virtual Internship
+* Google AI-ML Virtual Internship
+* Google Android Developer Virtual Internship
+* Palo Alto Cybersecurity Virtual Internship
 
 ---
 
-# ⚡ GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhan21-ui&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Madhan21-ui&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 🌐 Portfolio
-
-### Personal Portfolio Website
+## 🌐 Portfolio
 
 🔗 https://madhan21-ui.github.io/MadhanNagireddy_portfolio/
 
----
+## 🤝 Connect With Me
 
-# 🤝 Connect With Me
+📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
 
-<p align="center">
+💼 LinkedIn: https://www.linkedin.com/in/madhan-nagireddy-/
 
-<a href="https://www.linkedin.com/in/madhan-nagireddy-/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/Madhan21-ui">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-# 💡 Developer Quote
-
-<p align="center">
-<i>
-"First, solve the problem. Then, write the code."
-</i>
-</p>
+🐙 GitHub: https://github.com/Madhan21-ui
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  <b>"First, solve the problem. Then, write the code."</b>
 </p>
