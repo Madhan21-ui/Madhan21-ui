@@ -36,25 +36,41 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,mysql" />
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
 
-### Tools
+### ⚙️ Backend
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Eclipse](https://skillicons.dev/icons?i=eclipse)
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+* Spring Boot
+* REST APIs
+* Microservices
+* API Gateway
+* Eureka Service Registry
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,maven" />
+</p>
 
 ---
 
