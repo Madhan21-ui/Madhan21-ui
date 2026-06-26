@@ -88,9 +88,11 @@ Healthcare Appointment Booking Platform
 
 Online Vegetable Shopping Platform
 
-* React.js
+* Html
 * JavaScript
+* Css
 * Responsive UI
+* PHP
 * Shopping Cart
 
 ### 🧑‍🦯 Smart Assistive Navigation System
