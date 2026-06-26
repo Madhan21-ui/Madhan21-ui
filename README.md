@@ -26,11 +26,9 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech in Electronics & Communication Engineering (2025)
-* 💻 Passionate about Java, React.js, SQL, REST APIs and Microservices
-* 🌱 Currently building BookMyDoc Healthcare Platform
-* 🔥 Interested in Backend Development and Scalable Systems
-* 🎯 Seeking Software Engineer / Java Developer Opportunities
+🎓 B.Tech in Electronics & Communication Engineering (2025 Graduate)
+💻 Skilled in Core Java, SQL, HTML, CSS, JavaScript, React.js, REST APIs, and Spring Boot Microservices
+🚀 Aspiring Software Engineer passionate about building scalable web applications and continuously improving problem-solving skills
 
 ---
 
